@@ -106,7 +106,7 @@ This structure reflects real-world computational biology workflows, where reprod
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/bf591-r-biological-sciences.git
+git clone https://github.com/N3haRao/bf591-r-biological-sciences.git
 ```
 
 Install required R packages:
