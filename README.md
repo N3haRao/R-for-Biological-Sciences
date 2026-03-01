@@ -134,19 +134,10 @@ report.Rmd
 
 ---
 
-## Academic Context
-
-Course: **BF591 – R for Biological Sciences**
-Institution: Boston University
-Program: MS in Bioinformatics
-
-This coursework provided foundational training in structured R programming and reproducible analytical workflows, forming the basis for advanced multi-omics and statistical genomics projects.
-
----
-
-## 👩‍💻 Maintainer
+## Maintainer
 
 **Neha Rao**
+
 MS in Bioinformatics – Boston University
 
 Focus Areas:
